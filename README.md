@@ -20,11 +20,17 @@ Simplify serves as a platform to generate meanings of words selected in a websit
 
 
 
+
+
 <img width="900" alt="2" src="https://user-images.githubusercontent.com/76905421/220117774-73f2d058-fdf5-44c3-80b1-2eb4cffe9ad8.png">
 
 
 
+
+
 <img width="900" alt="3" src="https://user-images.githubusercontent.com/76905421/220117838-9daee1d0-2cc5-4a0c-9bbe-0b32ea195748.png">
+
+
 
 
 
