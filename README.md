@@ -15,9 +15,17 @@ Simplify serves as a platform to generate meanings of words selected in a websit
 9CspZzcD1IaeTKezvkhB
 
 ## App Preview
-![WhatsApp Image 2023-02-20 at 18 31 42](https://user-images.githubusercontent.com/76905421/220116309-b45b3d6b-0b06-42c1-8056-80e0f3dc45c3.jpg)
-![WhatsApp Image 2023-02-20 at 18 31 42](https://user-images.githubusercontent.com/76905421/220116376-3efdecc0-c96f-49f7-b32c-443949bcd2a2.jpg)
-![WhatsApp Image 2023-02-20 at 18 31 43](https://user-images.githubusercontent.com/76905421/220116472-859c839b-6f38-4e92-9b50-8fbae88db3be.jpg)
+
+<img width="900" alt="1" src="https://user-images.githubusercontent.com/76905421/220117739-fc0c223b-461b-406a-bd32-5e8f4dccb6cf.png">
+
+
+
+<img width="900" alt="2" src="https://user-images.githubusercontent.com/76905421/220117774-73f2d058-fdf5-44c3-80b1-2eb4cffe9ad8.png">
+
+
+
+<img width="900" alt="3" src="https://user-images.githubusercontent.com/76905421/220117838-9daee1d0-2cc5-4a0c-9bbe-0b32ea195748.png">
+
 
 
 ## How it Works ?
